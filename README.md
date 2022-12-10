@@ -1,2 +1,2 @@
 # ask_name_button
-Creating a button with an onclick prompt asking for a user's name
+An input for a user's name and a button to greet the user by name
