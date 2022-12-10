@@ -1,4 +1,4 @@
 function askName (){
-    let user = prompt('Как тебя зовут?');
-    alert(`Привет, ${user}!`)
+    let user = document.getElementById('username')
+    let result = document.getElementById('result').innerHTML = `Привет, ${user.value}!`;
 }
